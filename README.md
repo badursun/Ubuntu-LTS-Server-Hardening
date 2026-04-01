@@ -157,5 +157,5 @@ MIT
 ---
 
 <p align="center">
-<i>Adjans Digital tarafından gerçek dünya sunucu operasyonlarından damıtılmıştır.</i>
+<i>Badursun tarafından gerçek dünya sunucu operasyonlarından damıtılmıştır.</i>
 </p>
